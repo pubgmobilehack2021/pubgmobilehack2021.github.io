@@ -1,0 +1,332 @@
+Uri: https://haunted-project.ru/
+File Name: C:\Users\38066\Desktop\haunted-project.ru\index.htm
+Content Type: text/html
+
+Uri: https://haunted-project.ru/main/templates/css/font.css
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\css\font.css
+Content Type: text/css
+
+Uri: https://haunted-project.ru/main/templates/css/styles.css
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\css\styles.css
+Content Type: text/css
+
+Uri: https://haunted-project.ru/main/templates/css/bootstraps.css
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\css\bootstraps.css
+Content Type: text/css
+
+Uri: https://haunted-project.ru/main/templates/img/icon.ico
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\icon.ico
+Content Type: image/x-icon
+
+Uri: https://haunted-project.ru/auth/
+File Name: C:\Users\38066\Desktop\haunted-project.ru\auth\index.htm
+Content Type: text/html
+
+Uri: https://haunted-project.ru/register/
+File Name: C:\Users\38066\Desktop\haunted-project.ru\register\index.htm
+Content Type: text/html
+
+Uri: https://haunted-project.ru/register
+File Name: C:\Users\38066\Desktop\haunted-project.ru\register.html
+Content Type: text/html
+
+Uri: https://haunted-project.ru/auth
+File Name: C:\Users\38066\Desktop\haunted-project.ru\auth.html
+Content Type: text/html
+
+Uri: https://haunted-project.ru/main/agreement.pdf
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\agreement.pdf
+Content Type: application/pdf
+
+Uri: https://www.youtube.com/channel/UCF4X7ZyU3J06ZfqbKcsdlcg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\channel\UCF4X7ZyU3J06ZfqbKcsdlcg.html
+Content Type: text/html
+
+Uri: https://kit.fontawesome.com/c2ee9cd28b.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\c2ee9cd28b.js
+Content Type: text/javascript
+
+Uri: https://web.webpushs.com/js/push/98c44feb5a84d8e05a7133304cc9c5f7_1.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\js\push\98c44feb5a84d8e05a7133304cc9c5f7_1.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?hl=ru
+File Name: C:\Users\38066\Desktop\haunted-project.ru\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://haunted-project.ru/main/templates/img/logo_2.png
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\logo_2.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/96/000000/russian-federation-circular.png
+File Name: C:\Users\38066\Desktop\haunted-project.ru\color\96\000000\russian-federation-circular.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/96/000000/great-britain-circular.png
+File Name: C:\Users\38066\Desktop\haunted-project.ru\color\96\000000\great-britain-circular.png
+Content Type: image/png
+
+Uri: https://img.icons8.com/color/96/000000/ukraine-circular.png
+File Name: C:\Users\38066\Desktop\haunted-project.ru\color\96\000000\ukraine-circular.png
+Content Type: image/png
+
+Uri: https://haunted-project.ru/main/templates/img/arrow_right.png
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\arrow_right.png
+Content Type: image/png
+
+Uri: https://haunted-project.ru/main/templates/img/arrow_left.png
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\arrow_left.png
+Content Type: image/png
+
+Uri: https://haunted-project.ru/main/templates/img/function_esp.jpg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\function_esp.jpg
+Content Type: image/jpeg
+
+Uri: https://haunted-project.ru/main/templates/img/new_index_rage.jpg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\new_index_rage.jpg
+Content Type: image/jpeg
+
+Uri: https://haunted-project.ru/main/templates/img/function_changer.jpg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\function_changer.jpg
+Content Type: image/jpeg
+
+Uri: https://haunted-project.ru/main/templates/img/function_misc.jpg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\function_misc.jpg
+Content Type: image/jpeg
+
+Uri: https://haunted-project.ru/main/templates/js/jquery-3.2.1.min.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://haunted-project.ru/main/templates/js/jQuery.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\js\jQuery.js
+Content Type: application/javascript
+
+Uri: https://haunted-project.ru/main/templates/js/bootstrap.min.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\ajax\libs\jquery\1.10.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://haunted-project.ru/main/templates/js/modal.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\js\modal.js
+Content Type: application/javascript
+
+Uri: https://haunted-project.ru/main/templates/js/main.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\js\main.js
+Content Type: application/javascript
+
+Uri: https://haunted-project.ru/main/templates/js/yt.js
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\js\yt.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OUuhp.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWJ0bbck.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem8YaGs126MiZpBA-UFWJ0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFUZ0bbck.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem8YaGs126MiZpBA-UFUZ0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWZ0bbck.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem8YaGs126MiZpBA-UFWZ0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVp0bbck.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem8YaGs126MiZpBA-UFVp0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWp0bbck.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem8YaGs126MiZpBA-UFWp0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFW50bbck.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem8YaGs126MiZpBA-UFW50bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0b.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem8YaGs126MiZpBA-UFVZ0b.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gTD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3g3D_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gbD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gfD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gTD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3g3D_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gbD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gfD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gTD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3g3D_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gbD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gfD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gTD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3g3D_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gbD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gfD_u50.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gnD_g.woff2
+File Name: C:\Users\38066\Desktop\haunted-project.ru\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://haunted-project.ru/main/templates/img/background.jpg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\background.jpg
+Content Type: image/jpeg
+
+Uri: https://haunted-project.ru/main/templates/img/index_bg.jpg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\index_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://haunted-project.ru/main/templates/img/background_profile.jpg
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\background_profile.jpg
+Content Type: image/jpeg
+
+Uri: https://haunted-project.ru/main/templates/img/header_bg.png
+File Name: C:\Users\38066\Desktop\haunted-project.ru\main\templates\img\header_bg.png
+Content Type: image/png
+
+Uri: https://haunted-project.ru/auth/recovery
+File Name: C:\Users\38066\Desktop\haunted-project.ru\auth\recovery.html
+Content Type: text/html
+
